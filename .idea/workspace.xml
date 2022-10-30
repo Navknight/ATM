@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de06a65e-642a-4929-9062-1b622290ad38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clearscreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Writer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/change.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -35,19 +39,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gd4FzveBgFTOog2sAU4RSjL9dI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -76,7 +83,7 @@
       <workItem from="1667034571689" duration="68000" />
       <workItem from="1667036365399" duration="155000" />
       <workItem from="1667037589870" duration="361000" />
-      <workItem from="1667134438628" duration="5542000" />
+      <workItem from="1667134438628" duration="11419000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1666705412157</created>
@@ -92,6 +99,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial" />
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
