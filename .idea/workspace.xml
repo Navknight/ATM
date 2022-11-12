@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de06a65e-642a-4929-9062-1b622290ad38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de06a65e-642a-4929-9062-1b622290ad38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/abhig/OneDrive - iittp.ac.in/Documents/Clg Docs/Sem 3/Programming/100-problems-java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -78,6 +75,7 @@
       <workItem from="1667036365399" duration="155000" />
       <workItem from="1667037589870" duration="361000" />
       <workItem from="1667134438628" duration="11754000" />
+      <workItem from="1667413062816" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1666705412157</created>
